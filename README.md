@@ -2,7 +2,7 @@
 
 A web application built with React and TypeScript, utilizing Vite for fast development. This project serves as a student management portal, allowing users to manage student records efficiently.
 
-Demo Link: https://innomatics-internship-task8-navy.vercel.app/
+Demo Link: https://student-management-portal-navy.vercel.app/
 
 ## Features
 
